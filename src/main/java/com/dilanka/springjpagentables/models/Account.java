@@ -1,4 +1,4 @@
-package com.dilanka.springjpagentables.entity;
+package com.dilanka.springjpagentables.models;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
